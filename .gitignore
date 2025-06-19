@@ -1,0 +1,16 @@
+# Node modules & build
+tu-tien-client/node_modules/
+tu-tien-client/dist/
+
+# Laravel
+tu-tien-api/vendor/
+tu-tien-api/node_modules/
+tu-tien-api/.env
+
+# IDE
+*.log
+*.lock
+*.env
+.DS_Store
+.idea/
+.vscode/
